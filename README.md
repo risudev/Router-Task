@@ -35,22 +35,21 @@ This project is a simple e-commerce frontend built with **ReactJS**, **React Rou
 
 ## 📦 Getting Started
 
-### 1. Clone the Repository
+- 1. Clone the Repository
 
-```bash
 git clone https://github.com/risudev/Router-Task.git
 cd Router-Task
 npm install
 npm start
 ---
 
-🧠 State Management
-Used React Context API to manage global cart state:
+## 🧠 State Management
+**Used React Context API to manage global cart state:**
 - Add to Cart
 - Remove from Cart
 - Update Quantity
 - Compute Total and Discounted Total
 
-🔍 Fake Store API Reference
+## 🔍 Fake Store API Reference
 API Endpoint: https://fakestoreapi.com/products
 
