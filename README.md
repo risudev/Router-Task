@@ -34,13 +34,11 @@ This project is a simple e-commerce frontend built with **ReactJS**, **React Rou
 ---
 
 ## 📦 Getting Started
-
-- 1. Clone the Repository
-
-git clone https://github.com/risudev/Router-Task.git
-cd Router-Task
-npm install
-npm start
+## Clone the Repository
+- git clone https://github.com/risudev/Router-Task.git
+- cd Router-Task
+- npm install
+- npm start
 ---
 
 ## 🧠 State Management
