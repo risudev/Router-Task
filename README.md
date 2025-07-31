@@ -6,7 +6,7 @@ This project is a simple e-commerce frontend built with **ReactJS**, **React Rou
 
 ## 🔗 Live Demo
 
-🌐 [View Deployed App on Netlify](https://your-netlify-app-url.netlify.app)
+🌐 [View Deployed App on Netlify](https://kaleidoscopic-naiad-66e1cb.netlify.app/)
 
 ---
 
@@ -42,6 +42,7 @@ git clone https://github.com/risudev/Router-Task.git
 cd Router-Task
 npm install
 npm start
+---
 
 🧠 State Management
 Used React Context API to manage global cart state:
